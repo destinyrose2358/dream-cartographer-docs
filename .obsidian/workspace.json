@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16e8a792717d5059",
+        "id": "f61714748ba10907",
         "type": "tabs",
         "children": [
           {
-            "id": "5cfcd1ef44c730cd",
+            "id": "f76ae1c51a179ff0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Features/Features.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Features"
             }
           }
         ]
@@ -199,8 +203,28 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "fae0775a8d628844",
+  "active": "f76ae1c51a179ff0",
   "lastOpenFiles": [
+    "Features/Customization/Texture Pack/Texture Pack.md",
+    "Features/Customization/Customization.md",
+    "Features/Customization/Texture Pack",
+    "Features/Features.md",
+    "Features/Customization",
+    "Features/Map/Element/Person.md",
+    "Features/Map/Element/Map Element.md",
+    "Features/Map/Element/Thing.md",
+    "Features/Map/Element/Place.md",
+    "Features/Map/Element/Road.md",
+    "Features/Map/Map Link.md",
+    "Features/Map/Map Splice.md",
+    "Features/Map/Map.md",
+    "Features/Cartography/Cartography.md",
+    "Features/Cartography/Map/Element/Person",
+    "Features/Map/Element",
+    "Features/Map",
+    "Features/Cartography",
+    "README.md",
+    "Features",
     "Welcome.md"
   ]
 }
